@@ -85,7 +85,7 @@ const ankit = {
 
 ---
 
-## 📈 Contribution Graph
+## ⏱️ Coding Activity (WakaTime)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ankitmaurya-programmer&theme=tokyonight&hide_border=true" alt="Wakatime Stats" />
