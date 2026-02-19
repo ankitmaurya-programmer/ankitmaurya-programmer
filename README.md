@@ -26,7 +26,7 @@
 
 ```javascript
 const ankit = {
-    pronouns: "He" | "Him",
+    pronouns: "he" | "him",
     location: "India 🇮🇳",
     role: "Full Stack Developer",
     code: ["JavaScript", "TypeScript", "Python", "Java"],
@@ -155,7 +155,7 @@ Uncomment and update the links below:
 <a href="https://linkedin.com/in/your-username" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://twitter.com/your-username" target="_blank">
+<a href="https://x.com/your-username" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
 </a>
 <a href="mailto:your-email@example.com">
