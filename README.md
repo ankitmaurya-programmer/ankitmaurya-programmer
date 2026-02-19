@@ -88,7 +88,7 @@ const ankit = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ankitmaurya&theme=tokyonight&hide_border=true" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ankitmaurya-programmer&theme=tokyonight&hide_border=true" alt="Wakatime Stats" />
 </div>
 
 ---
@@ -98,12 +98,16 @@ const ankit = {
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankitmaurya-programmer)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitmaurya)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ankitmaurya)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitmaurya@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ankitmaurya.dev)
 
 </div>
+
+<!-- 
+Add your social media links here by uncommenting and updating:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-username)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+-->
 
 ---
 
